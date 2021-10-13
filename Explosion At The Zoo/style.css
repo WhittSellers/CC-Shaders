@@ -1,0 +1,31 @@
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 512px;
+    height: 512px;
+    /*border: 1px solid black;*/
+  }
+  
+  h1 {
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 0;
+      padding-right: 0;
+      margin-top: auto;
+      text-align: center;
+  }
+
+  body {
+    background: no-repeat url("http://placekitten.com/512/512");
+    background-position: center;
+    background-size: 30%;
+    /* background-image: url('https://images.unsplash.com/photo-1632104009230-4c927433490f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzMjg5MTQxNw&ixlib=rb-1.2.1&q=85');*/
+  }
+  
+  /* css help from 
+    https://stackoverflow.com/questions/5127937/how-to-center-canvas-in-html5 
+    https://developer.mozilla.org/en-US/docs/Web/CSS/background-size 
+  */
