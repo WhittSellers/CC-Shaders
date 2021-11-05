@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klak.Wiring", "Klak.Wiring.csproj", "{312ed9d0-e42a-9ee3-23fc-d8c9763116a9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klak.Math", "Klak.Math.csproj", "{f765db16-ae5b-5c48-c877-4ff748f7477e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3085ba92-0c00-6c5a-b2a4-0250d02bc442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klak.Test", "Klak.Test.csproj", "{5b345757-dad0-0b43-9073-6b9aa6e742ef}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klak.Motion", "Klak.Motion.csproj", "{2328d238-c001-69a2-e0b5-7e0066e6a60a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klak.Extensions", "Klak.Extensions.csproj", "{3248ddcc-1e69-b48a-1cdf-dc8be7245102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klak.Wiring.Editor", "Klak.Wiring.Editor.csproj", "{26daacd7-9b47-26c1-52dd-e9cb1e396db6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klak.Motion.Editor", "Klak.Motion.Editor.csproj", "{0d63e48b-e390-2b67-7a43-ebfb3e50f99c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{eca6205e-f4e3-5680-b5e9-6e138b4fe0c0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klak.Math.Editor", "Klak.Math.Editor.csproj", "{c5050b6f-7f9f-e17b-44d8-03440e1348fc}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{312ed9d0-e42a-9ee3-23fc-d8c9763116a9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312ed9d0-e42a-9ee3-23fc-d8c9763116a9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f765db16-ae5b-5c48-c877-4ff748f7477e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f765db16-ae5b-5c48-c877-4ff748f7477e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3085ba92-0c00-6c5a-b2a4-0250d02bc442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3085ba92-0c00-6c5a-b2a4-0250d02bc442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5b345757-dad0-0b43-9073-6b9aa6e742ef}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5b345757-dad0-0b43-9073-6b9aa6e742ef}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2328d238-c001-69a2-e0b5-7e0066e6a60a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2328d238-c001-69a2-e0b5-7e0066e6a60a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3248ddcc-1e69-b48a-1cdf-dc8be7245102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3248ddcc-1e69-b48a-1cdf-dc8be7245102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26daacd7-9b47-26c1-52dd-e9cb1e396db6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26daacd7-9b47-26c1-52dd-e9cb1e396db6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0d63e48b-e390-2b67-7a43-ebfb3e50f99c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0d63e48b-e390-2b67-7a43-ebfb3e50f99c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{eca6205e-f4e3-5680-b5e9-6e138b4fe0c0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{eca6205e-f4e3-5680-b5e9-6e138b4fe0c0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c5050b6f-7f9f-e17b-44d8-03440e1348fc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c5050b6f-7f9f-e17b-44d8-03440e1348fc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
