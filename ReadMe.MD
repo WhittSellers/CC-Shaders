@@ -1,14 +1,8 @@
 Midi Controller Options
 ====
 
-![png](VJ-Experience-Final-Project\images\Custom Midi Control.PNG)
-![gif](http://i.imgur.com/uCrvKNg.gif)
-
-![gif](http://i.imgur.com/nmvtC5d.gif)
-![gif](http://i.imgur.com/LysINFA.gif)
-
-![gif](http://i.imgur.com/MsPX8pn.gif)
-![gif](http://i.imgur.com/WjQzVWz.gif)
+![png](\VJ-Experience-Final-Project\images\Custom Midi Control.PNG)
+![alt text]('\VJ-Experience-Final-Project\images\Custom Midi Control.PNG')
 
 **Klak** is a collection of scripts for creative coding with Unity.
 
