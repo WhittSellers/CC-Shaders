@@ -1,7 +1,7 @@
 Midi Controller Options
 ====
 
-![png](https://github.com/WhittSellers/CC-Shaders/blob/356dcf4a18c0d4b42e8b978dae67841314ad009e/VJ-Experience-Final-Project/images/Custom Midi Control.PNG)
+![png](VJ-Experience-Final-Project\images\Custom Midi Control.PNG)
 ![gif](http://i.imgur.com/uCrvKNg.gif)
 
 ![gif](http://i.imgur.com/nmvtC5d.gif)
