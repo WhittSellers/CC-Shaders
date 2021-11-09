@@ -1,3 +1,7 @@
-![Alt text](VJ-Experience-Final-Project\images\Custom Midi Control.PNG?raw=true "Custom Midi Controller")
+Nativgating though TouchDesigner
+====
 
-![Alt text](VJ-Experience-Final-Project\images\Custom Midi Control.PNG?raw=true "Custom Midi Controller")
+**Custom Midi Controller**
+![Custom Midi Controller](VJ-Experience-Final-Project\images\Custom Midi Control.PNG]
+
+![Alt text](VJ-Experiencse-Final-Project\images\Custom Midi Control.PNG]
