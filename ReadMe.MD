@@ -1,7 +1,7 @@
 Midi Controller Options
 ====
 
-![png](https://imgur.com/a/nY7Ugqy)
+!(https://imgur.com/a/nY7Ugqy)
 
 **Klak** is a collection of scripts for creative coding with Unity.
 
