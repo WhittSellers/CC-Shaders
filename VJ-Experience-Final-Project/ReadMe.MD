@@ -1,7 +1,7 @@
 Midi Controller Options
 ====
 
-!(https://imgur.com/a/nY7Ugqy)
+![Midi Custom Component](VJ-Experience-Final-Project\images\Custom Midi Control.PNG)
 
 **Klak** is a collection of scripts for creative coding with Unity.
 
